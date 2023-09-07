@@ -1,4 +1,6 @@
 <link rel="stylesheet" href="stylesheet.css">
 h1 {
-  color: red;
+  color: #ff000;
+  font-size:40px;
+  font-family:serif;
 }
